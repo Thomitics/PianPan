@@ -1,7 +1,7 @@
 {
   "userPrincipalName": "use_in_school@foxex.cn",
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive",
+  "title": "交货交货~",
   "baseDirectory": "/Special",
   "maxItems": 100,
   "googleFontSans": "Inter",
@@ -18,11 +18,11 @@
   "links": [
     {
       "name": "GitHub",
-      "link": "https://github.com/spencerwooo/onedrive-vercel-index"
+      "link": ""
     },
     {
       "name": "Telegram",
-      "link": "https://t.me/realSpencerWoo"
+      "link": "https://t.me/"
     }
   ]
 }
