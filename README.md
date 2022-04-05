@@ -11,7 +11,7 @@
 
 ## TL;DR
 
-Showcase, share, preview, and download files inside *your* OneDrive with onedrive-vercel-index -
+Showcase, share, preview, and dawnload files inside *your* OneDrive with onedrive-vercel-index -
 
 - Completely free to host 💸
 - Fast ⚡ and responsive 💦
